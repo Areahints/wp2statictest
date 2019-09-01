@@ -1,0 +1,11 @@
+#epanel-title:before {font-family: "ET-Extra";font-size: 24px;content: "";top: -3px;}
+#epanel-header, h1#epanel-title, .reset-popup-header, .box-desc-top {background-color: #3e5062;}
+#epanel-mainmenu a:hover, #epanel-mainmenu li.ui-state-active a, #epanel-header .et-defaults-button:hover {background-color: #47d895;}
+#epanel-mainmenu, #epanel-header .et-defaults-button {background-color: #4ee6a0;}
+.et-save-button, #epanel-reset {background-color: #47d895;}
+.et-save-button:hover, #epanel-reset:hover {background-color: #41c387;}
+.no {background-color: #40c387;}
+.no:hover {background-color: #36a974;}
+#epanel p.inputs .jquery-checkbox .mark {color: #47d895;}
+.box-desc-content .lightboxclose {background-color: #354554;}
+.box-desc-content .lightboxclose:hover {background-color: #2d3b48;}
